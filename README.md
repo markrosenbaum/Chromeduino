@@ -42,3 +42,4 @@ If you have a dev VPS or something lying around, why not help the community and 
 ### Notice of Non-Affiliation and Disclaimer:
 We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Arduino AG or Google LLC (“Google”), or any of their subsidiaries or their affiliates. The official Arduino AG website can be found at https://www.arduino.cc
 The names "Chrome", "Chromebook", "Chromebox", "Arduino", and "Genuino" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+[![Run on Repl.it](https://repl.it/badge/github/spaceneedle/Chromeduino)](https://repl.it/github/spaceneedle/Chromeduino)
